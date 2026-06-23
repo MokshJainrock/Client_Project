@@ -1,4 +1,4 @@
-# Client Data Management & Analytics System
+# Client Revenue Risk & Retention Analytics Dashboard
 
 I built this to answer a simple business question with real data: when a company
 can't afford to chase every customer who stops buying, which ones are actually
